@@ -1,4 +1,2 @@
 # podcastr
 nlw trilha react
-
-
