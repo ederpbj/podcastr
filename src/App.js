@@ -1,6 +1,15 @@
+import Button from './Button'
+import ButtonChildren from './ButtonChildren'
+
 function App() {
   return (
-    <h1>Hello world</h1>
+    <>
+      <ButtonChildren>Botão X</ButtonChildren>
+      <Button title="Botão 2" />
+      <Button title="Botão 3" />
+      <Button title="Botão 4" />
+      <Button title="Botão 5" />
+    </>
   );
 }
 
